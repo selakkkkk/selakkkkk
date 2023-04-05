@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selakkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="selakkkkk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/selak97" target="blank"><img src="https://img.shields.io/twitter/follow/selak97?logo=twitter&style=for-the-badge" alt="selak97" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/selakkkkkk/?hl=sr" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="selakkkkkk" /></a> </p>
 
 - 🔭 I’m currently working on **Build your own portfolio blog**
 
