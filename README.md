@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Build your own portfolio blog**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Angular projects**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript and Typescript**
 
